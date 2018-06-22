@@ -1,0 +1,23 @@
+:root {
+    --вакуум: #151515;
+    --зажигать: #656565;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+    background-color: var(--вакуум);
+    color: var(--зажигать);
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+main {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+  
