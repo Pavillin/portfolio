@@ -1,4 +1,14 @@
-<?php include 'header.php'; ?>
+<?php
+    ob_start();
+    include("header.php");
+    $buffer=ob_get_contents();
+    ob_end_clean();
+
+    $title = "JavaScript Camp Projects";
+    $buffer = preg_replace('/(<title>)(.*?)(<\/title>)/i', '$1' . $title . '$3', $buffer);
+
+    echo $buffer;
+?>
 
 <!-- Projects -->
 <div class="projectBox">
