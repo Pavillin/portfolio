@@ -28,7 +28,7 @@
     <div class="projectBox">
         <div class="project" style="background-image: url(images/jscamp.jpg);">
             <h3 class="projectName">JavaScript Camp Projects</h3>
-            <a href="p_jscamp.html"><input class="projectBtn" type="submit" value="View"/></a>
+            <a href="p_jscamp.php"><input class="projectBtn" type="submit" value="View"/></a>
             <p>Everything from an animated clock to a interactive drumkit.</p>
         </div>
     </div>
@@ -36,7 +36,7 @@
     <div class="projectBox">
         <div class="project" style="background-image: url(images/graphicdesign.jpg);">
             <h3 class="projectName">Graphic Design Work</h3>
-            <a href="p_gdesign.html"><input class="projectBtn" type="submit" value="View"/></a>
+            <a href="p_gdesign.php"><input class="projectBtn" type="submit" value="View"/></a>
             <p>Some of my work from Photoshop and Cinema 4D.</p>
         </div>
     </div>
