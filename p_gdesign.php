@@ -12,7 +12,7 @@
 <!-- Gallery START -->
 <div class="container gallery-container">
     <h1>Graphic Showcase</h1>
-    <p class="page-description text-center">Created using Adobe Photoshop & Cinema 4D.</p>
+    <p class="page-description text-center">Created using Adobe Photoshop, Illustrator & Cinema 4D.</p>
     <div class="tz-gallery">
         <div class="row">
             <div class="col-sm-6 col-md-4">

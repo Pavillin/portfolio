@@ -53,7 +53,8 @@ $(document).ready(function(){
     }
     catch(e){}
     //typed.js END
-    //required START
+
+    //required graphic form START
     try{
         $("#paymentType").on('change', function(){
             const paymentType = this.value;
@@ -65,5 +66,11 @@ $(document).ready(function(){
         });
     }
     catch(e){}
-    //required END
+    //required graphic form END
+
+    //BaguetteBox START
+    try {
+        baguetteBox.run('.tz-gallery');
+    } catch (e) {}
+    //BaguetteBox END
 });
