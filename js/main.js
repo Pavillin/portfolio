@@ -53,4 +53,17 @@ $(document).ready(function(){
     }
     catch(e){}
     //typed.js END
+    //required START
+    try{
+        $("#paymentType").on('change', function(){
+            const paymentType = this.value;
+            if(paymentType == 'PayPal'){
+                $("#gEmail").prop('required', true);
+            }else{
+                $("#gEmail").prop('required', false);
+            }
+        });
+    }
+    catch(e){}
+    //required END
 });

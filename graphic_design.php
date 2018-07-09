@@ -3,46 +3,56 @@
 <!-- Popup Window START -->
 <div class="alert">
     <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-    Whoa! I haven't finished this page yet, just email me at:
+    If Discord isn't your thing, just email me at:
     <a href="mailto:contact@deadfyre.com?" target="_top" style="color: white;"><strong>contact@deadfyre.com</strong></a>
-    Or you can slide into my DMs on discord @<b>Drix#8197</b> 😉
 </div>
 <!-- Popup Window END -->
 
 <!-- Contact Form START -->
 <div class="container">
-    <div class="col-md-5" style="margin: auto;">
-        <div class="form-area">
-            <form role="form">
-                <br style="clear:both">
-                <h3 style="margin-bottom: 25px; text-align: center;">Design Form!</h3>
-                <p style="margin-bottom: 25px; text-align: center;">If you would like to request graphic design work from me,
-                    please fill out the form below and DM me on Discord! <b>@Drix#8197</b>.
-                    Also, you can check out the work I've done before
-                    <a href="p_gdesign.html">here</a>!
-                </p>
-                <div class="form-group">
-                    <div class="form-control" id="textToCopy">
-                        Name:
-                        <br><br>
-                        Payment (PayPal or Rocket League Items):
-                        <br><br>
-                        Email (Only if payment type is PayPal):
-                        <br><br>
-                        Design Type(Logo, Banner, etc):
-                        <br><br>
-                        Details about what you want:
-                        <br><br>
-                        Extra requirements (Optional):
+        <div class="col-md-5" style="margin: auto;">
+            <div class="form-area">
+                <form role="form" method="POST" action="process/graphic_design_form.php" id="cntform" onSubmit="alert('Thank you for your feedback.');">
+                    <br style="clear:both">
+                    <h3 style="margin-bottom: 25px; text-align: center;">Design Form!</h3>
+                    <p style="margin-bottom: 25px; text-align: center;">If you would like to request graphic design work from me,
+                        please fill out the form below and I'll contact you on Discord!
+                        Also, you can check out the work I've done before
+                        <a href="p_gdesign.html">here</a>!
+
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
                     </div>
-                </div>
+                    <div class="form-group">
+                            <input type="text" class="form-control" id="discord" name="discord" placeholder="Discord (Drix#8197)" required>
+                    </div>
+                    <div class="form-group">
+                        <select class="form-control" id="paymentType" name="paymentType" required>
+                                <option value=""hidden>Select Payment Type</option>
+                                <option value="PayPal">PayPal</option>
+                                <option value="Rocket League Items">Rocket League Items</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="gEmail" name="gEmail" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="designType" name="designType" placeholder="Design Type(Logo, Banner, etc)" required>
+                    </div>
+                    <div class="form-group">
+                        <textarea class="form-control" type="textarea" id="details" name="details" placeholder="Details about what you want"
+                         maxlength="750" rows="7" form="cntform" required></textarea>
+                    </div>
+                    <div class="form-group">
+                            <textarea class="form-control" type="textarea" id="extra" name="extra" placeholder="Extra requirements (Optional)"
+                             maxlength="200" rows="7" form="cntform"></textarea>
+                        </div>
 
-
-                <button class="btn btn-primary btn-submit" data-clipboard-action="copy" data-clipboard-target="#textToCopy">Copy Form</button>
-            </form>
+                    <button type="submit" id="submit" name="submit" class="btn btn-primary btn-submit">Submit Form</button>
+                </form>
+            </div>
         </div>
     </div>
-</div>
-<!-- Contact Form END -->
+    <!-- Contact Form END -->
 
 <?php include 'footer.php'; ?>
