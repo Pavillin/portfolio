@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Processing Form</title>
+  <title>Processing Form</title>
+  <meta http-equiv="refresh" content="0;url=http://www.deadfyre.com/portfolio/graphic_design.php">
 </head>
 <body>
-	<?php
+  <?php
 		//variables from form
     $name = $_POST['name'];
     $discord = $_POST['discord'];
@@ -82,7 +83,8 @@
     //call function to send message to discord
     require_once ('config.php');
     discordmsg($msg, webhookID);
-    header("Location: ../graphic_design.php");
+    //doesn't work on live server for some reason ??
+    //header('Location: ../graphic_design.php');
     die();
 	?>
 </body>

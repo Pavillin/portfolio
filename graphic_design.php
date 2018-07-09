@@ -12,7 +12,7 @@
 <div class="container">
         <div class="col-md-5" style="margin: auto;">
             <div class="form-area">
-                <form role="form" method="POST" action="process/graphic_design_form.php" id="cntform" onSubmit="alert('Thank you for your feedback.');">
+                <form role="form" method="POST" action="process/graphic_design_form.php" id="cntform" onSubmit="alert('Form submitted.');">
                     <br style="clear:both">
                     <h3 style="margin-bottom: 25px; text-align: center;">Design Form!</h3>
                     <p style="margin-bottom: 25px; text-align: center;">If you would like to request graphic design work from me,
