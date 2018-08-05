@@ -255,7 +255,7 @@ div[target="comingSoon"] {
 
 /*Reviews START*/
 .carousel {
-	width: 650px;
+	max-width: 650px;
 	margin: 0 auto;
 	padding-bottom: 50px;
 }
