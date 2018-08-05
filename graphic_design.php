@@ -18,6 +18,10 @@
 </div>
 <!-- Popup Window END -->
 
+<!-- Reviews START -->
+<?php include 'testimonials.php'; ?>
+<!-- Reviews END -->
+
 <!-- Contact Form START -->
 <div class="container">
         <div class="col-md-5" style="margin: auto;">
