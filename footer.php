@@ -1,6 +1,6 @@
 <!-- footer START -->
 <footer class="page-footer font-small pt-4">
-    <div class="footer-copyright text-center py-3">© 2018 Copyright:
+    <div class="footer-copyright text-center py-3">© <?php echo date("Y"); ?> Copyright:
         <a id="footera" href="https://steamcommunity.com/id/drixrl/">Dylan//Drix</a>
     </div>
     <div class="footer-social">
