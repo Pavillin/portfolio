@@ -25,30 +25,46 @@
     <p class="page-description text-center">Created using Adobe Photoshop, Illustrator & Cinema 4D.</p>
     <div class="tz-gallery">
         <div class="row">
+        <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="images/graphic_design/grim-reapers.jpg">
+                    <img src="images/graphic_design/grim-reapers.jpg" alt="Grim Reapers Logo">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="images/graphic_design/Käldr-Beasts.jpg">
+                    <img src="images/graphic_design/Käldr-Beasts.jpg" alt="Käldr Beasts Logo">
+                </a>
+            </div>
+            <div class="col-sm-12 col-md-4">
+                <a class="lightbox" href="images/graphic_design/OTL.jpg">
+                    <img src="images/graphic_design/OTL.jpg" alt="OTL Esports">
+                </a>
+            </div>
+
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="images/graphic_design/3DAurora.jpg">
                     <img src="images/graphic_design/3DAurora.jpg" alt="3D Aurora Logo">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="images/graphic_design/OTL.jpg">
-                    <img src="images/graphic_design/OTL.jpg" alt="OTL Esports">
-                </a>
-            </div>
-            <div class="col-sm-12 col-md-4">
-                <a class="lightbox" href="images/graphic_design/TLKfortnite.jpg">
-                    <img src="images/graphic_design/TLKfortnite.jpg" alt="TLK Fortnite">
-                </a>
-            </div>
-
-            <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="images/graphic_design/Bazz.jpg">
                     <img src="images/graphic_design/Bazz.jpg" alt="Bazz Logo">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="images/graphic_design/RETRO.jpg">
-                    <img src="images/graphic_design/RETRO.jpg" alt="Retro">
+                <a class="lightbox" href="images/graphic_design/jke.jpg">
+                    <img src="images/graphic_design/jke.jpg" alt="Jke Logo">
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="images/graphic_design/glitch.jpg">
+                    <img src="images/graphic_design/glitch.jpg" alt="Glitchy">
+                </a>
+            </div>
+            <div class="col-sm-12 col-md-4">
+                <a class="lightbox" href="images/graphic_design/TLKfortnite.jpg">
+                    <img src="images/graphic_design/TLKfortnite.jpg" alt="TLK Fortnite">
                 </a>
             </div>
             <div class="col-sm-12 col-md-4">
@@ -75,8 +91,8 @@
             </div>
 
             <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="images/graphic_design/jke.jpg">
-                    <img src="images/graphic_design/jke.jpg" alt="Jke Logo">
+                <a class="lightbox" href="images/graphic_design/RETRO.jpg">
+                    <img src="images/graphic_design/RETRO.jpg" alt="Retro">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
