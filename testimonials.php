@@ -26,7 +26,7 @@
             <hr>
         </div>
 
-		<div class="item carousel-item active">
+		<div class="item carousel-item">
             <p class="overview"><b>maskRL</b></p>
             <hr>
 			<p class="testimonial">Drix is an amazing designer. His work is quick reliable and top tier quality, if you want an awesome logo just let Drix know and you will be amazed at what he can do. 5/5 stars would recommend to a friend, would use his service again.</p>
