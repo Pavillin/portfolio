@@ -6,9 +6,26 @@
         <li data-target="#myCarousel" data-slide-to="2"></li>
         <li data-target="#myCarousel" data-slide-to="3"></li>
 		<li data-target="#myCarousel" data-slide-to="4"></li>
+		<li data-target="#myCarousel" data-slide-to="5"></li>
 	</ol>   
 	<!-- Wrapper for carousel items -->
 	<div class="carousel-inner">		
+		<div class="item carousel-item active">
+            <p class="overview"><b>Bazz</b></p>
+            <hr>
+			<p class="testimonial">Drix is an amazing editor/designer who is willing to work with you to make a logo that you are sure to be satisfied with. His work is tremendous, and he is a very nice guy. If I could give him more than 5 stars I would. 5/5</p>
+			<div class="star-rating">
+				<ul class="list-inline">
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star"></i></li>
+				</ul>
+            </div>
+            <hr>
+        </div>
+
 		<div class="item carousel-item active">
             <p class="overview"><b>maskRL</b></p>
             <hr>
