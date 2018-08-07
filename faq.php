@@ -4,7 +4,7 @@
     $buffer=ob_get_contents();
     ob_end_clean();
 
-    $title = "Page Template";
+    $title = "FAQ";
     $buffer = preg_replace('/(<title>)(.*?)(<\/title>)/i', '$1' . $title . '$3', $buffer);
 
     echo $buffer;
