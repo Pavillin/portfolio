@@ -31,9 +31,11 @@
                     <h3 style="margin-bottom: 25px; text-align: center;">Design Form!</h3>
                     <p style="margin-bottom: 25px; text-align: center;">If you would like to request graphic design work from me,
                         please fill out the form below and I'll contact you on Discord!
-                        Also, you can check out the work I've done before
-                        <a href="p_gdesign.php">here</a>!
+                    </p>
 
+                        <p style="margin-bottom: 25px; text-align: center;">
+                        If you have any questions please check my <a href="faq.php" style="color: #ff9800">frequently asked questions</a> page!    
+                        </p>
                     <div class="form-group">
                         <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
                     </div>

@@ -313,3 +313,15 @@ hr {
     background-image: linear-gradient(to right, rgba(255, 152, 0, 0), rgba(255, 152, 0, 0.75), rgba(255, 152, 0, 0));
 }
 /*Reviews END*/
+
+/*FAQ START*/
+.faq {
+    color: rgb(158, 158, 158);
+    text-align: center;
+    margin-top: 20px;
+}
+.faq .question {
+    color: #fff;
+    font-size: 15px;
+}
+/*FAQ END*/
