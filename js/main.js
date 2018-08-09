@@ -73,4 +73,24 @@ $(document).ready(function(){
         baguetteBox.run('.tz-gallery');
     } catch (e) {}
     //BaguetteBox END
+
+    //Particlesjs START
+    try{
+        var particles = Particles.init({
+            selector: '.particles',
+            color: ['#ff9800','#fff'],
+            maxParticles: 200,
+            sizeVariations: 5,
+
+            responsive:[
+                {
+                    breakpoint: 750,
+                    options:{
+                        maxParticles: 100
+                    }
+                }
+            ]
+        });
+    } catch(e){}
+    //Particlesjs END
 });

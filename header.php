@@ -18,7 +18,7 @@
 <body>
 <!-- Header Banner START -->
 <div class="head-bann">
-    <img src="Images/header.gif" class="img-fluid" alt="Responsive image">
+    <canvas class="particles"></canvas>
     <h2 class="head-bann-centered"><span class="typing"></span></h2>
 </div>
 <!-- Header Banner END -->

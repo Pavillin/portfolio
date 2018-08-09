@@ -2,13 +2,16 @@ body{
     background-color: #1C1C1C;
 }
 /*Banner START*/
-.img-fluid{
+.particles{
     width: 100%;
-    max-height: 400px;
+    height: 1000px;
+    background-color: #1c1c1c;
 }
 .head-bann{
     position: relative;
     text-align: center;
+    width: 100%;
+    max-height: 400px;
 }
 .head-bann-centered {
     position: absolute;
