@@ -7,10 +7,26 @@
         <li data-target="#myCarousel" data-slide-to="3"></li>
 		<li data-target="#myCarousel" data-slide-to="4"></li>
 		<li data-target="#myCarousel" data-slide-to="5"></li>
+		<li data-target="#myCarousel" data-slide-to="6"></li>
 	</ol>   
 	<!-- Wrapper for carousel items -->
-	<div class="carousel-inner">		
+	<div class="carousel-inner">
 		<div class="item carousel-item active">
+            <p class="overview"><b>Bk.</b>Player for <a href="https://twitter.com/OTLeSports">Outliers eSports</a>.</p>
+            <hr>
+			<p class="testimonial">Drix is one of the best, if not the best designers that I know. His work is so adjustable for what each person wants and the time that he gets it done in is just incredible. 5/5 stars</p>
+			<div class="star-rating">
+				<ul class="list-inline">
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star"></i></li>
+				</ul>
+            </div>
+            <hr>
+        </div>		
+		<div class="item carousel-item">
             <p class="overview"><b>Bazz</b>Leader of <a href="https://twitter.com/OTLeSports">Outliers eSports</a>.</p>
             <hr>
 			<p class="testimonial">Drix is an amazing editor/designer who is willing to work with you to make a logo that you are sure to be satisfied with. His work is tremendous, and he is a very nice guy. If I could give him more than 5 stars I would. 5/5</p>
