@@ -30,6 +30,7 @@
                 <p>Painted wheels</p>
                 <p>Painted boost</p>
                 <p>Painted toppers (<b>ONLY</b> Halo or Wildcat ears)</p>
+                <p>Painted bodies (<b>ONLY</b> Octane)</p>
             <hr>
             <p class="question"><b>My keys are on cooldown, can I pay you once they're done cooldown?</b></p>
                 <p>Yes! This is fine with me, however I won't begin work on your project until I recieve payment.</p>

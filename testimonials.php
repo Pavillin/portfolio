@@ -27,7 +27,7 @@
             <hr>
         </div>		
 		<div class="item carousel-item">
-            <p class="overview"><b>Bazz</b>Leader of <a href="https://twitter.com/OTLeSports">Outliers eSports</a>.</p>
+            <p class="overview"><b>Bazz</b>Owner of <a href="https://twitter.com/OTLeSports">Outliers eSports</a>.</p>
             <hr>
 			<p class="testimonial">Drix is an amazing editor/designer who is willing to work with you to make a logo that you are sure to be satisfied with. His work is tremendous, and he is a very nice guy. If I could give him more than 5 stars I would. 5/5</p>
 			<div class="star-rating">
@@ -91,7 +91,7 @@
         </div>
 
         <div class="item carousel-item">
-            <p class="overview"><b>jke</b>Leader of <a href="https://twitter.com/OTLeSports">Outliers eSports</a>.</p>
+            <p class="overview"><b>jke</b>Owner of <a href="https://twitter.com/OTLeSports">Outliers eSports</a>.</p>
             <hr>
 			<p class="testimonial">Your a great guy to work with, very professional and organized!</p>
 			<div class="star-rating">
