@@ -42,6 +42,22 @@
             </div>
 
             <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="images/graphic_design/Bk.jpg">
+                    <img src="images/graphic_design/Bk.jpg" alt="Bk. Logo">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="images/graphic_design/spacelips.jpg">
+                    <img src="images/graphic_design/spacelips.jpg" alt="Space Lips">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="images/graphic_design/drixsupreme.jpg">
+                    <img src="images/graphic_design/drixsupreme.jpg" alt="Drix Supreme">
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="images/graphic_design/3DAurora.jpg">
                     <img src="images/graphic_design/3DAurora.jpg" alt="3D Aurora Logo">
                 </a>
