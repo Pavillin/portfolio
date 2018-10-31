@@ -10,14 +10,6 @@
     echo $buffer;
 ?>
 
-<!-- Popup Window START -->
-<div class="alert">
-    <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-    If Discord isn't your thing, just email me at:
-    <a href="mailto:contact@deadfyre.com?" target="_top" style="color: white;"><strong>contact@deadfyre.com</strong></a>
-</div>
-<!-- Popup Window END -->
-
 <!-- Reviews START -->
 <?php include 'testimonials.php'; ?>
 <!-- Reviews END -->
