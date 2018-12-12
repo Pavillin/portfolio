@@ -47,13 +47,13 @@
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="images/graphic_design/spacelips.jpg">
-                    <img src="images/graphic_design/spacelips.jpg" alt="Space Lips">
+                <a class="lightbox" href="images/graphic_design/infinity8.jpg">
+                    <img src="images/graphic_design/infinity8.jpg" alt="Infinity 8">
                 </a>
             </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="images/graphic_design/drixsupreme.jpg">
-                    <img src="images/graphic_design/drixsupreme.jpg" alt="Drix Supreme">
+            <div class="col-sm-12 col-md-4">
+                <a class="lightbox" href="images/graphic_design/spacelips.jpg">
+                    <img src="images/graphic_design/spacelips.jpg" alt="Space Lips">
                 </a>
             </div>
 
@@ -67,9 +67,25 @@
                     <img src="images/graphic_design/Bazz.jpg" alt="Bazz Logo">
                 </a>
             </div>
+            <div class="col-sm-12 col-md-4">
+                <a class="lightbox" href="images/graphic_design/happynowRemake.jpg">
+                    <img src="images/graphic_design/happynowRemake.jpg" alt="Happy Now Remake">
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="images/graphic_design/drixsupreme.jpg">
+                    <img src="images/graphic_design/drixsupreme.jpg" alt="Drix Supreme">
+                </a>
+            </div>
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="images/graphic_design/jke.jpg">
                     <img src="images/graphic_design/jke.jpg" alt="Jke Logo">
+                </a>
+            </div>
+            <div class="col-sm-12 col-md-4">
+                <a class="lightbox" href="images/graphic_design/rlbanners.jpg">
+                    <img src="images/graphic_design/rlbanners.jpg" alt="Rocket League Banners">
                 </a>
             </div>
 
@@ -78,14 +94,14 @@
                     <img src="images/graphic_design/glitch.jpg" alt="Glitchy">
                 </a>
             </div>
-            <div class="col-sm-12 col-md-4">
-                <a class="lightbox" href="images/graphic_design/TLKfortnite.jpg">
-                    <img src="images/graphic_design/TLKfortnite.jpg" alt="TLK Fortnite">
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="images/graphic_design/R3DYT.jpg">
+                    <img src="images/graphic_design/R3DYT.jpg" alt="R3D Water Esports">
                 </a>
             </div>
             <div class="col-sm-12 col-md-4">
-                <a class="lightbox" href="images/graphic_design/R3DYT.jpg">
-                    <img src="images/graphic_design/R3DYT.jpg" alt="R3D Water Esports">
+                <a class="lightbox" href="images/graphic_design/TLKfortnite.jpg">
+                    <img src="images/graphic_design/TLKfortnite.jpg" alt="TLK Fortnite">
                 </a>
             </div>
             
