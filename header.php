@@ -25,7 +25,7 @@
 
 <!-- Navbar START -->
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
-    <a class="navbar-brand" href="home.php">
+    <a class="navbar-brand" href="home">
         <img src="Images/logo.svg" alt="Logo" style="width:40px;">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -34,19 +34,19 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="home.php">Home</a>
+                <a class="nav-link" href="home">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="portfolio.php">Portfolio</a>
+                <a class="nav-link" href="portfolio">Portfolio</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="graphic_design.php">Graphic Design</a>
+                <a class="nav-link" href="graphic_design">Graphic Design</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="game_development.php">Game Development</a>
+                <a class="nav-link" href="game_development">Game Development</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="contact.php">Contact</a>
+                <a class="nav-link" href="contact">Contact</a>
             </li>
         </ul>
     </div>
