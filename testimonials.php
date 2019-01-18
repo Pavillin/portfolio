@@ -8,6 +8,7 @@
 		<li data-target="#myCarousel" data-slide-to="4"></li>
 		<li data-target="#myCarousel" data-slide-to="5"></li>
 		<li data-target="#myCarousel" data-slide-to="6"></li>
+		<li data-target="#myCarousel" data-slide-to="7"></li>
 	</ol>   
 	<!-- Wrapper for carousel items -->
 	<div class="carousel-inner">
@@ -119,6 +120,22 @@
 				</ul>
             </div>
             <hr>
-        </div>	
+		</div>	
+		
+		<div class="item carousel-item">
+            <p class="overview"><b>Grim Reidlol</b></p>
+            <hr>
+			<p class="testimonial">5 stars amazing to work with, super nice and chill guy, would definitely recommend.</p>
+			<div class="star-rating">
+				<ul class="list-inline">
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star"></i></li>
+				</ul>
+            </div>
+            <hr>
+        </div>
 	</div>
 </div>
