@@ -10,6 +10,13 @@
     echo $buffer;
 ?>
 
+<!-- Popup Window -->
+<div class="alert">
+        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+        My graphic design services have been disabled for the time being to focus on school.
+    </div>
+    <!-- Popup Window END -->
+
 <!-- Reviews START -->
 <?php include 'testimonials.php'; ?>
 <!-- Reviews END -->
@@ -56,7 +63,7 @@
                              maxlength="200" rows="7" form="cntform"></textarea>
                         </div>
 
-                    <button type="submit" id="submit" name="submit" class="btn btn-primary btn-submit">Submit Form</button>
+                    <button type="submit" id="submit" name="submit" class="btn btn-primary btn-submit" disabled>Submit Form</button>
                 </form>
             </div>
         </div>

@@ -219,6 +219,15 @@ div[target="comingSoon"] {
     display: block;
     margin: 0px auto;
 }
+.btn-submit:disabled{
+    transition: all 0.3s ease;
+    color: #1C1C1C;
+    background-color: rgba(0,0,0,0);
+    border-color: #ff9800;
+    display: block;
+    margin: 0px auto;
+    cursor: not-allowed;
+}
 .btn-submit:hover{
     transition: all 0.3s ease;
     color: #FFFFFF;
