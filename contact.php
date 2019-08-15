@@ -27,23 +27,23 @@
                     <br style="clear:both">
                     <h3 style="margin-bottom: 25px; text-align: center;">Contact Me!</h3>
                     <div class="form-group">
-                        <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
+                        <input type="text" class="form-control" id="name" name="name" placeholder="Name" required disabled>
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" id="email" name="email" placeholder="Email" required>
+                        <input type="text" class="form-control" id="email" name="email" placeholder="Email" required disabled>
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" id="mobile" name="mobile" placeholder="Mobile Number (Optional)">
+                        <input type="text" class="form-control" id="mobile" name="mobile" placeholder="Mobile Number (Optional)" disabled>
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required>
+                        <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required disabled>
                     </div>
                     <div class="form-group">
-                        <textarea class="form-control" type="textarea" id="message" placeholder="Message" maxlength="140" rows="7"></textarea>
+                        <textarea class="form-control" type="textarea" id="message" placeholder="Message" maxlength="140" rows="7" disabled></textarea>
                         <span class="help-block"><p id="characterLeft" class="help-block ">You have reached the limit</p></span>
                     </div>
 
-                    <button type="submit" id="submit" name="submit" class="btn btn-primary btn-submit">Submit Form</button>
+                    <button type="submit" id="submit" name="submit" class="btn btn-primary btn-submit" disabled>Submit Form</button>
                 </form>
             </div>
         </div>
