@@ -11,7 +11,7 @@
 ?>
 
 <!-- Gallery START -->
-<div class="container gallery-container">
+<div class="container gallery-container" style="margin-top: 20px;">
     <h1>Graphic Showcase</h1>
     <p class="page-description text-center">Created using Adobe Photoshop, Illustrator & Cinema 4D.</p>
     <div class="tz-gallery">
