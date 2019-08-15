@@ -10,15 +10,6 @@
     echo $buffer;
 ?>
 
-<!-- Popup Window START -->
-<div class="alert">
-    <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-    Whoa! I haven't finished this page yet, just email me at:
-    <a href="mailto:contact@deadfyre.com?" target="_top" style="color: white;"><strong>contact@deadfyre.com</strong></a>
-    Or you can slide into my DMs on discord @<b>Drix#8197</b> 😉
-</div>
-<!-- Popup Window END -->
-
 <!-- Gallery START -->
 <div class="container gallery-container">
     <h1>Graphic Showcase</h1>
