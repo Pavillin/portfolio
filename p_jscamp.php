@@ -20,7 +20,7 @@
 </div>
 
 <div class="projectBox">
-        <div class="project" style="background-image: url(http://unsplash.it/1500/1000?image=881&blur=50);">
+        <div class="project" style="background-image: url(http://unsplash.it/1500/1000?image=881&blur=5);">
                 <h3 class="projectName">Clock</h3>
                 <a href="javascriptCamp/Clock/index.html"><input class="projectBtn" type="submit" value="View"/></a>
                 <p>A clock build with CSS and JavaScript.</p>
