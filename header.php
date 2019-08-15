@@ -42,9 +42,11 @@
             <li class="nav-item">
                 <a class="nav-link" href="graphic_design">Graphic Design</a>
             </li>
+            <!-- Disabled until I add content
             <li class="nav-item">
                 <a class="nav-link" href="game_development">Game Development</a>
             </li>
+            -->
             <li class="nav-item">
                 <a class="nav-link" href="contact">Contact</a>
             </li>
