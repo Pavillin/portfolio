@@ -104,23 +104,6 @@
                     <img src="images/graphic_design/TLKfortnite.jpg" alt="TLK Fortnite">
                 </a>
             </div>
-            
-
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="images/graphic_design/TLKHead.png">
-                    <img src="images/graphic_design/TLKHead.png" alt="TLK Head">
-                </a>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="images/graphic_design/TLKKnight.png">
-                    <img src="images/graphic_design/TLKKnight.png" alt="TLK Knight">
-                </a>
-            </div>
-            <div class="col-sm-12 col-md-4">
-                <a class="lightbox" href="images/graphic_design/TLK.jpg">
-                    <img src="images/graphic_design/TLK.jpg" alt="TLK">
-                </a>
-            </div>
 
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="images/graphic_design/RETRO.jpg">
