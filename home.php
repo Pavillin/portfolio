@@ -13,7 +13,7 @@
     <div class="home">
         <div class="home-wrap">
             <div class="col-md-8">
-                <div class="img mb-4 img-overlay"></div>
+                <div class="img mb-4" style="background-image: url(Images/me.jpg)"></div>
                 <div class="desc">
                     <hr>
                     <h2 class="subheading">Hello I'm</h2>
