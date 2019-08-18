@@ -354,6 +354,18 @@ hr {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     border-radius: 50%; 
+    background-image: url("../Images/me.jpg");
+}
+.img-overlay:before {
+    content:" ";
+    width:200px;
+    height:200px;
+    display: block;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%; 
+    background-color: rgba(255, 153, 0, 0.144);
 }
 .home .subheading {
     font-size: 24px;
