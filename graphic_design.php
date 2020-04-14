@@ -39,7 +39,7 @@
                         <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
                     </div>
                     <div class="form-group">
-                            <input type="text" class="form-control" id="discord" name="discord" placeholder="Discord (Drix#8197)" required>
+                            <input type="text" class="form-control" id="discord" name="discord" placeholder="Discord (spragouu#8197)" required>
                     </div>
                     <div class="form-group">
                         <select class="form-control" id="paymentType" name="paymentType" required>

@@ -40,7 +40,7 @@ $(document).ready(function(){
         var options = {
             strings: [
                 "Hello and welcome to my portfolio!",
-                "My name is Dylan aka Drix.",
+                "My name is Dylan aka spragouu.",
                 "I'm a coder, gamer, and designer.",
                 "Enjoy your stay!"
             ],

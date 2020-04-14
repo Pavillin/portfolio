@@ -1,14 +1,14 @@
 <!-- footer START -->
 <footer class="page-footer font-small pt-4">
     <div class="footer-copyright text-center py-3">© <?php echo date("Y"); ?> Copyright:
-        <a id="footera" href="https://steamcommunity.com/id/drixrl/">Dylan//Drix</a>
+        <a id="footera" href="https://steamcommunity.com/id/spragouu/">Dylan//spragouu</a>
     </div>
     <div class="footer-social">
-        <a href="https://www.instagram.com/drixrl/"><i class="fab fa-instagram"></i></a>
-        <a href="https://github.com/Pavillin"><i class="fab fa-github"></i></a>
-        <a href="https://steamcommunity.com/id/drixrl/"><i class="fab fa-steam"></i></a>
+        <a href="https://www.instagram.com/spragouu/"><i class="fab fa-instagram"></i></a>
+        <a href="https://github.com/spragouu"><i class="fab fa-github"></i></a>
+        <a href="https://steamcommunity.com/id/spragouu/"><i class="fab fa-steam"></i></a>
         <a href="https://discord.gg/jV6ZyK6"><i class="fab fa-discord"></i></a>
-        <a href="https://twitter.com/drixrl"><i class="fab fa-twitter"></i></a>
+        <a href="https://twitter.com/spragouu"><i class="fab fa-twitter"></i></a>
     </div>
 </footer>
 <!-- footer END -->

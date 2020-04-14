@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css" />
     <link rel="stylesheet" type="text/css" href="css/main.css" />
 
-    <title>Dylan//Drix</title>
+    <title>Dylan//spragouu</title>
 </head>
 
 <body>
