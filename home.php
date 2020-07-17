@@ -18,7 +18,7 @@
                     <hr>
                     <h2 class="subheading">Hello I'm</h2>
                     <h1 class="mb-4 heading">Dylan 'spragouu' Sprague</h1>
-                    <p class="mb-4 bio">Hailing from Halifax, Nova Scotia, I'm a soon to be graduate of the Computer Programmer Co-op Diploma program at Georgian College! I'm a huge gamer and actively compete for <a href="https://twitter.com/frontside_gg" style="color: #ff9800">FrontSide Esports</a> on their Rocket League roster. When I'm not hitting the books or playing games you can catch me adventuring with my dog Oskar or spending time with friends. I'm an open-minded individual with a huge love for everything tech and hope to be on the frontlines pushing the boundaries for what's possible with new technology!</p>
+                    <p class="mb-4 bio">Hailing from Halifax, Nova Scotia, I'm a soon to be graduate of the Computer Programmer Co-op Diploma program at Georgian College! I'm a huge gamer and actively compete for <a href="https://twitter.com/PeakeSportsGG" style="color: #ff9800">Peak eSports</a> on their Rocket League Prime roster. When I'm not hitting the books or playing games you can catch me adventuring with my dog Oskar or spending time with friends. I'm an open-minded individual with a huge love for everything tech and hope to be on the frontlines pushing the boundaries for what's possible with new technology!</p>
                     <hr>
                 </div>
             </div>
